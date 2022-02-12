@@ -19,3 +19,12 @@ ADVANTAGES:
 DISADVANTAGES:
 1.Some times it becomes difficult to store more contacts (i.e,150).
 2.It becomes even difficult to store contacts with two or more contact numbers.
+
+DESIGN:
+ THE PRESENT PROGRAM CONSISTS OF THE FOLLOWING MODULES:
+  1.Preprocessor commands.
+  2.Structures.
+  3.Functions.
+  4.Variables.
+  5.Statements & Expressions.
+
